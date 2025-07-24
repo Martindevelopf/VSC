@@ -752,3 +752,6 @@ nombres = ['Ana', 'Luis']
 edades = [25, 30]
 for nombre, edad in zip(nombres, edades):
     print(nombre, edad)"""
+from funciones import sumar
+
+sumar(23,33)
